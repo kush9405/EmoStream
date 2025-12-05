@@ -1,1 +1,1 @@
-# EmoStream
+# EC-Team-41-emostream-concurrent-emoji-broadcast-over-event-driven-architecture
